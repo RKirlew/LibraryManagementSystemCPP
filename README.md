@@ -5,6 +5,7 @@ The system allows users to manage books, members, and borrowings. The project co
 The Book class provides functionality to create, display, and manage books, including adding books to the library, displaying all books, and checking book availability.
 
 The Member class allows users to create and manage members, including adding members, displaying member information, and borrowing books.
+![image](https://user-images.githubusercontent.com/15880681/231681105-8c136334-6c40-4f94-8b3e-6f46ad52b35b.png)
 
 The Library class serves as the main interface for managing books, members, and borrowings. It provides methods to add books and members, display book and member information, and manage book borrowings.
 
